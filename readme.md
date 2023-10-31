@@ -1,5 +1,5 @@
 # **Robot Trading**
-Este proyecto fue creado para el bootcamp del profe alejo, en este proyecto se utiliza tecnologías como Python , Numpy , Matplotlib, Web Scraping y estrategias personalizadas para automatizar el análisis de datos en tiempo real
+Este proyecto fue creado para el bootcamp de data science del profe alejo, en este proyecto se utiliza tecnologías como Python , Numpy , Matplotlib, Web Scraping y estrategias personalizadas para automatizar el análisis de datos en tiempo real
 # **Breve Descripción del Proyecto**
 **1. Configuración del Ambiente:**
 Importa las bibliotecas necesarias, como pandas, numpy, matplotlib, yfinance, BeautifulSoup, requests, entre otras.
